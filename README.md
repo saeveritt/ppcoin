@@ -1,7 +1,9 @@
-Primecoin integration/staging tree
+BitcoinPrime integration/staging tree
 ==================================
 
-http://primecoin.org
+http://bitcoinprime.org
+
+Copyright (c) 2018 BitcoinPrime Developers
 
 Copyright (c) 2013 Primecoin Developers
 
@@ -9,26 +11,26 @@ Copyright (c) 2009-2013 Bitcoin Developers
 
 Copyright (c) 2011-2013 PPCoin Developers
 
-What is Primecoin?
+What is BitcoinPrime?
 ------------------
 
-Primecoin is an experimental cryptocurrency that introduces the first
-scientific computing proof-of-work to cryptocurrency technology. Primecoin's
+BitcoinPrime is an experimental cryptocurrency that introduces the first
+scientific computing proof-of-work to cryptocurrency technology. BitcoinPrime's
 proof-of-work is an innovative design based on searching for prime number
 chains, providing potential scientific value in addition to minting and
-security for the network. Similar to Bitcoin, Primecoin enables instant payments
-to anyone, anywhere in the world. It also uses peer-to-peer technology to 
-operate with no central authority: managing transactions and issuing money are 
-carried out collectively by the network. Primecoin is also the name of the open
+security for the network. Similar to Bitcoin, BitcoinPrime enables instant payments
+to anyone, anywhere in the world. It also uses peer-to-peer technology to
+operate with no central authority: managing transactions and issuing money are
+carried out collectively by the network. BitcoinPrime is also the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Primecoin client sofware, see http://primecoin.org.
+the BitcoinPrime client sofware, see http://bitcoinprime.org.
 
 License
 -------
 
-Primecoin is released under conditional MIT license. See  COPYING` for more
+BitcoinPrime is released under conditional MIT license. See  COPYING` for more
 information.
 
 Development process
@@ -50,9 +52,9 @@ match the project's coding conventions (see `doc/coding.md`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/primecoin/primecoin/tags) are
+completely stable. [Tags](https://github.com/BTCPrime/BitcoinPrime/tags) are
 created regularly to indicate new official, stable release versions of
-Primecoin.
+BitcoinPrime.
 
 Testing
 -------
